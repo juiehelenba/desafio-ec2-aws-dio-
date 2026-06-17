@@ -87,7 +87,7 @@ Além dos conceitos técnicos, o desafio reforçou a importância da documentaç
 
 A imagem abaixo corresponde ao desafio proposto pela DIO.
 
-![Desafio EC2](images/desafio-ec2.png)
+![Desafio EC2](images/DESAFIO.jgp)
 
 ## Conclusão
 
