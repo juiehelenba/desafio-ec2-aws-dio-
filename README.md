@@ -29,13 +29,9 @@ Com o Amazon EC2 é possível:
 Durante o laboratório foram abordadas as etapas necessárias para criação de uma instância EC2:
 
 1. Acesso ao Console da AWS;
-2. Navegação até o serviço Amazon EC2;
-3. Criação de uma nova instância;
-4. Seleção de uma Amazon Machine Image (AMI);
-5. Escolha do tipo de instância;
-6. Configuração de armazenamento;
-7. Configuração de acesso e segurança;
-8. Inicialização da instância.
+2. Amazon EC2;
+3. Amazon Machine Image (AMI);
+
 
 ## AMI (Amazon Machine Image)
 
@@ -81,7 +77,6 @@ Durante a realização deste laboratório, foi possível compreender a importân
 
 Também foram estudados os conceitos de AMI, que permitem criar instâncias padronizadas de forma rápida, e de Snapshot EBS, que auxiliam na proteção e recuperação de dados.
 
-Além dos conceitos técnicos, o desafio reforçou a importância da documentação utilizando GitHub como ferramenta de compartilhamento de conhecimento e registro de aprendizado.
 
 ## Evidências
 
@@ -92,5 +87,3 @@ A imagem abaixo corresponde ao desafio proposto pela DIO.
 ## Conclusão
 
 Este desafio permitiu consolidar conhecimentos fundamentais sobre gerenciamento de instâncias EC2, utilização de AMIs e criação de Snapshots EBS.
-
-A prática demonstrou como a AWS oferece recursos flexíveis para provisionamento de servidores, armazenamento e recuperação de dados, contribuindo para a construção de ambientes escaláveis, seguros e de alta disponibilidade.
